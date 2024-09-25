@@ -64,7 +64,7 @@ python ovis/serve/server.py --model_path MODEL_PATH --port PORT
 ```
 
 ## Citation
-If you find Ovis useful, please cite the paper
+If you find Ovis useful, please cite the paper....
 ```
 @article{lu2024ovis,
   title={Ovis: Structural Embedding Alignment for Multimodal Large Language Model}, 
